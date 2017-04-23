@@ -1,5 +1,5 @@
-class Zodiac
-  def Zodiac.all
+class Zodiacs
+  def Zodiacs.all
     return [
       {
         :creature => "ram",
